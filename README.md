@@ -1,1 +1,6 @@
-goodnice!
+1.在虚拟机中安装UBUNTU操作系统,并配置好网络为桥接
+2.查看虚拟机主机地址
+3.在主机中查看主机地址
+4.浏览时报错：C:\Users\36487>Python -m http.server --directory index 8007 Serving HTTP on 0.0.0.0 port 8007 (http://0.0.0.0:8007/)...
+usage: server.py [-h] [--cgi] [--bind ADDRESS] [--directory DIRECTORY] [port]
+server.py: error: unrecognized arguments: Serving HTTP on 0.0.0.0 port 8007 (http://0.0.0.0:8007/)...
