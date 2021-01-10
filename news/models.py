@@ -8,7 +8,7 @@ class Student(models.Model):
         FEMALE = 2, '女'
         OTHER = 3,'其他'
     sex = models.IntegerField(choices = Sex.choices)
-    #设置性别选项
+    #设置性别的选项
 
 
 
